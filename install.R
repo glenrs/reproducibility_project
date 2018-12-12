@@ -1,4 +1,6 @@
 install.packages("ggplot2")
 install.packages("pdftools")
-install.packages("tidyverse")
 install.packages("usmap")
+install.packages("dplyr")
+install.packages("tibble")
+install.packages("purrr")
